@@ -1,6 +1,6 @@
 
 
-content {
+#content {
     max-width: 1600px;
     margin: 0 auto;
 
@@ -10,3 +10,38 @@ content {
     height: 725px;
 }
 
+body{
+    background-color: #2F2B2C;
+}
+
+header {
+    background-color:#6F7364;
+}
+nav a:hover {
+    background-color: #2F2B2C;
+    color: #FCFBFB;
+}
+
+footer{
+    background-color:#2F2B2C ;
+}
+
+.book{
+    background-color: #2F2B2C; 
+}
+
+.book:hover{
+    background-color:#2F2B2C
+}
+
+.join{
+    background-color:#2F2B2C
+}
+
+.join:hover{
+    background-color:#2F2B2C
+}
+
+.msg{
+    background-color:#2F2B2C
+}
