@@ -3,15 +3,32 @@
 #content {
     max-width: 1600px;
     margin: 0 auto;
+}
 
+nav a{
+    text-align: center;
+    color: #FCFBFB;
+}
+
+#Hero-msg h1, #Hero-msg h4{
+    text-align: center
 }
 
 #background{
     height: 725px;
+    background-color: #cbD9C2A3;
+}
+
+.button-box{
+    text-align: center
+}
+
+main section{
+    text-align: center
 }
 
 body{
-    background-color: #2F2B2C;
+    background-color: #FCFBFB;
 }
 
 header {
@@ -23,7 +40,8 @@ nav a:hover {
 }
 
 footer{
-    background-color:#2F2B2C ;
+    background-color:#6F7364 ;
+    color:#FCFBFB ;
 }
 
 .book{
@@ -31,17 +49,35 @@ footer{
 }
 
 .book:hover{
-    background-color:#2F2B2C
+    background-color:#2F2B2C;
 }
 
 .join{
-    background-color:#2F2B2C
+    background-color:#2F2B2C;
 }
 
 .join:hover{
-    background-color:#2F2B2C
+    background-color:#2F2B2C;
 }
 
 .msg{
-    background-color:#2F2B2C
+    background-color:#6F7364;
+    color:#FCFBFB ;
+}
+
+.logo{
+    width: 80px;
+}
+
+.icon
+{
+    width: 80px;
+}
+
+.home-title{
+    color: #2F2B2C;
+}
+
+h4{
+    
 }
