@@ -380,6 +380,16 @@ button {
   margin-left: .5em;
 }
 
+.rivers-grid {
+    display: block;
+    margin: 10px;
+}
+.rivers-title {
+    margin: 25px;
+}
+.river1-text, .river2-text {
+    overflow: visible;
+    height: auto;
 }
 
-
+}
